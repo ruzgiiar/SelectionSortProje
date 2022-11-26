@@ -8,6 +8,6 @@
 
 - Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 
-  Average case: Aradığımız sayının ortada olması
+  1. Average case: Aradığımız sayının ortada olması
   Worst case: Aradığımız sayının sonda olması
   Best case: Aradığımız sayının dizinin en başında olması.
